@@ -281,6 +281,7 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <None Include="RDPMNGMNT.bak" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
